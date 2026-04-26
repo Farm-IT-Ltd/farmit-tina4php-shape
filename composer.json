@@ -1,5 +1,5 @@
 {
-    "name": "farmit/tina4php-shape",
+    "name": "tina4stack/tina4php-shape",
     "description": "Tina4 PHP HTML Shape Language",
     "license": "MIT",
     "autoload": {
